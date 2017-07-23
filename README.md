@@ -1,7 +1,7 @@
 # Nyemod
 Nyemod is a Guard For Your Ads
 
-![alt text](https://raw.githubusercontent.com/codenoid/nyemod/master/nyemod.jpg)
+![Nyemod aka Ads Protector](https://raw.githubusercontent.com/codenoid/nyemod/master/nyemod.jpg)
 
 nyemod can protect your ads from boom click, <a href="http://jihantoro.net/read/nyemod-your-ads-guard" target="_blank">Read Tutorial</a>
 
